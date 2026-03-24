@@ -22,4 +22,4 @@ EasyWhiteList: Disable
 
 76561199204092861  9й
 
-
+[VADisable]
